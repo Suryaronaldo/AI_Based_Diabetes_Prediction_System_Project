@@ -1,0 +1,2 @@
+# AI_Based_Diabetes_Prediction_System_Project
+problem statement and solution
